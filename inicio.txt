@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hej! soy Mariana de Indonesia
+=======
+hola soy Tom de Bélgica
+>>>>>>> parent of 4e370e8 (Cambio #2)
